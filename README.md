@@ -8,3 +8,6 @@ node js/task-2.js
 node js/task-3.js
 node js/task-4.js
 ```
+
+You can also view the live version of the tasks on the following page:
+[Live Demo](https://antmuraha.github.io/goit-js-hw-02/)
